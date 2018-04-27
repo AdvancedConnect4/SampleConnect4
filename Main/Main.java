@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main{
     //global variables
-    final static int WIDTH = 6;
+    final static int WIDTH = 7;
     final static int HEIGHT = 6;
     final static int BOTTOM_ROW = WIDTH - 1;
 
